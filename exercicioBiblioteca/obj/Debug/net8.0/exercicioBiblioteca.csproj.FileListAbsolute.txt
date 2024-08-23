@@ -1,0 +1,15 @@
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/bin/Debug/net8.0/exercicioBiblioteca
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/bin/Debug/net8.0/exercicioBiblioteca.deps.json
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/bin/Debug/net8.0/exercicioBiblioteca.runtimeconfig.json
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/bin/Debug/net8.0/exercicioBiblioteca.dll
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/bin/Debug/net8.0/exercicioBiblioteca.pdb
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.AssemblyInfoInputs.cache
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.AssemblyInfo.cs
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.sourcelink.json
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.dll
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/refint/exercicioBiblioteca.dll
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.pdb
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/exercicioBiblioteca.genruntimeconfig.cache
+/home/aluno/Documentos/GitHub/exercicioBiblioteca/exercicioBiblioteca/obj/Debug/net8.0/ref/exercicioBiblioteca.dll
