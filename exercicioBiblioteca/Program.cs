@@ -1,4 +1,6 @@
-﻿namespace exercicioBiblioteca;
+﻿using exercicioBiblioteca.Entities;
+
+namespace exercicioBiblioteca;
 
 class Program
 {

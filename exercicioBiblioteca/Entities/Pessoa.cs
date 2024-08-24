@@ -9,9 +9,9 @@ public abstract class Pessoa : IPessoa
 	
 	public Pessoa(string nome, string cpf)
 	{
-		Nome = nome;
-		CPF = cpf;
+		this.Nome = nome;
+		this.CPF = cpf;
 	}
 	
-	public abstract	void ObterIdentificação();
+	public abstract	void ObterIdentificacao();
 }
